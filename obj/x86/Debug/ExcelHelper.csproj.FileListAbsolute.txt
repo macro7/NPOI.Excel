@@ -1,0 +1,41 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ExcelHelperDemo.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ExcelHelperDemo.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\NPOI.dll
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\ExcelHelperDemo.Form1.resources
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\ExcelHelperDemo.Properties.Resources.resources
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csproj.GenerateResource.cache
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csproj.CoreCompileInputs.cache
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csproj.CopyComplete
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\NPOI.OOXML.dll
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\macro\Desktop\胥图Demo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csprojAssemblyReference.cache
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\WindowsFormsApplication1.exe
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\WindowsFormsApplication1.pdb
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\NPOI.dll
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\NPOI.OOXML.dll
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Githb\DotNetDemo\ExcelReaderDemo\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csprojAssemblyReference.cache
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\ExcelHelperDemo.Form1.resources
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\ExcelHelperDemo.Properties.Resources.resources
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csproj.GenerateResource.cache
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csproj.CoreCompileInputs.cache
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\ExcelHelper.csproj.CopyComplete
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Githb\DotNetDemo\ExcelReaderDemo\obj\x86\Debug\WindowsFormsApplication1.pdb
